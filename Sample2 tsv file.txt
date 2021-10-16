@@ -1,0 +1,5 @@
+Sr.No. Names Marks Department
+1 Anubhav 78.4 Medical
+2 Prachi 89 Medical
+3 Rahul 78 Non-medical
+4 Ritu 89 Non-medical

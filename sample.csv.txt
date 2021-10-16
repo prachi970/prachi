@@ -1,0 +1,5 @@
+sr.no,name,marks,department
+1,Anubhav,89.9,Medical
+2,Rahul,78.9,Non-Medical
+3,Prachi,75,Medical
+4,Ritu,76,Non-Medical
